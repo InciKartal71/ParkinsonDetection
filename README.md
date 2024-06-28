@@ -15,4 +15,4 @@ Key findings indicate that the Random Forest Classifier outperformed others with
 This research underscores the importance of age and genetic markers in PD risk assessment and proposes tailored diagnostic approaches. Future studies should explore larger datasets and advanced modeling techniques to refine diagnostic accuracy and facilitate early intervention strategies for Parkinson’s disease.
 
 ## Feedback
-Let me know if you have any further questions or feedback. Here is a link to my paper [paper](https://github.com/timsletap/startup-analysis/blob/main/PredictionOfStartupSuccessUsingML.pdf)
+Let me know if you have any further questions or feedback. 
